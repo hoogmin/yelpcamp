@@ -17,7 +17,7 @@ in a local file named `.env`.
 4. While this is a fully functional web app, it is important to remember that it is unpolished and still contains many bugs that have yet to be fixed (and probably won't be).
 5. This app uses MongoDB so you will need to have it installed for the application to work properly.
 
-All in all, this project took me a couple weeks at my pace (which admittedly could have been faster). I used many resources to
+All in all, this project took me a couple weeks at my pace. I used many resources to
 complete this project with the primary one being Colt Steele's course. Strangely enough, despite following the tutorial pretty
 closely, I still encountered strange errors that were never shown and so I had to fix them. If there was one thing I got from
 this experience, its that when it comes to errors/bugs it is always the small things that get you! This is all I have to say
